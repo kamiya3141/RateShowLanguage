@@ -17,54 +17,54 @@
 <h1>・スクリプト例："Hello World"</h1>
 
 <code>
-# (comment-out) 32:space, 65~90:ABCDEFGHIJKLMNOPQRSTUVWXYZ, 97~122:abcdefghijklmnopqrstuvwxyz
+\# (comment-out) 32:space, 65~90:ABCDEFGHIJKLMNOPQRSTUVWXYZ, 97~122:abcdefghijklmnopqrstuvwxyz
 
-# H
+\# H
 うおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおw
 うおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおw
 ちょwお前必死やんww
 
-# e
+\# e
 うおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおw
 うおwうおw
 ちょwお前必死やんww
 
-# l
+\# l
 うおwうおwうおwうおwうおwうおwうおw
 ちょwお前必死やんww
 
-# l
+\# l
 ちょwお前必死やんww
 
-# o
+\# o
 うおwうおwうおw
 ちょwお前必死やんww
 
-# SPACE
+\# SPACE
 きちーww
 うおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおw
 ちょwお前必死やんww
 ええてw
 
-# W
+\# W
 どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑
 ちょwお前必死やんww
 
-# o
+\# o
 うおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおw
 ちょwお前必死やんww
 
-# r
+\# r
 うおwうおwうおw
 ちょwお前必死やんww
-# l
+\# l
 どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑
 ちょwお前必死やんww
-# d
+\# d
 どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑どわー笑
 ちょwお前必死やんww
 
-# !
+\# !
 きちーww
 うおw
 ちょwお前必死やんww
