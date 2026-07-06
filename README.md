@@ -18,7 +18,7 @@
 
 <code>
   
-\# (comment-out) 32:space, 65~90:ABCDEFGHIJKLMNOPQRSTUVWXYZ, 97~122:abcdefghijklmnopqrstuvwxyz
+\# (comment-out) 32:space, 65\~90:ABCDEFGHIJKLMNOPQRSTUVWXYZ, 97\~122:abcdefghijklmnopqrstuvwxyz
 
 \# H
 うおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおwうおw
